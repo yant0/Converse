@@ -1,7 +1,7 @@
 # Converse
 A unit converter app for cooking (Optional task in Developers Android)
 
-I use a litte bit of a guidance from chatGPT for the Spinner since i dont know anything about spinner. Originally i have my own code to solve to conversion but it was pretty limited since it only uses milliliter as base unit.
+I used a litte bit of a help from chatGPT for the spinners since i dont know anything about spinners. Originally, i had my own code to solve to conversion but it was pretty limited since it only uses milliliter as base unit.
 
 Thanks for stopping by !
 
@@ -9,3 +9,4 @@ Thanks for stopping by !
 - [ ] Change Icon
 - [ ] Fix rounding
 - [ ] Add release
+- [ ] Rearrange units alphabetically
