@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Converse</string>
+    <string name="convertion_result">%s %2s</string>
+    <string name="null_input">Please input a valid value</string>
+    <string name="round_conversion">Round conversion?</string>
+    <string name="convert_button">CONVERT</string>
+    <string name="insert_value">Insert Value</string>
+    <string name="placeholder_conversion_result">Result will be shown here</string>
+    <string name="github_logo_description">Author\'s Github Repository</string>
+</resources>
